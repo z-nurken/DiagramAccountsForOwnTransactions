@@ -1,0 +1,2 @@
+# DiagramAccountsForOwnTransactions
+DiagramAccountsForOwnTransactions
